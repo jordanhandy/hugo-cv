@@ -11,3 +11,9 @@ pages:
     - public
   only:
   - main
+
+test:
+  script:
+  - hugo
+  except:
+  - main
