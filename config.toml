@@ -3,7 +3,6 @@ title = "Jordan Handy"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-copyright = "Copyright 2008-{ year } Jordan Handy."
 
 paginate = 20  # Pagination for blog posts
 
@@ -25,10 +24,10 @@ disqusShortname = "yourdiscussshortname"
   favicon_16 = "/img/favicon-16x16.png"
 
   # footercontent = "Jordan Handy"
-  hideFooter = true
+  hideFooter = false
   hideCredits = true
   hideCopyright = false
-  since = 2021
+  since = "2008"
 
   enableTwemoji = true
 
