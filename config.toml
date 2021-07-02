@@ -70,3 +70,7 @@ disqusShortname = "yourdiscussshortname"
   name = "About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "Certifications"
+  weight = 3
+  url = "certifications/"
