@@ -1,4 +1,6 @@
 baseurl = "https://obsidianshark.gitlab.io/hugo-cv-site/"
+relativeURLs = true
+canonifyURLs = true
 title = "Jordan Handy"
 theme = "hugo-coder"
 languagecode = "en"
