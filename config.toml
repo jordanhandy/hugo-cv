@@ -13,30 +13,30 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
+  author = "Jordan Handy"
+  info = "Full Stack DevOps and Technical Consultant"
+  description = "Jordan's Website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  gravatar = "handy.jordan@outlook.com"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
   footercontent = "Enter a text here."
   hideFooter = false
-  hideCredits = false
+  hideCredits = true
   hideCopyright = false
-  since = 2019
+  since = 2021
 
   enableTwemoji = true
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  customCSS = ["css/custom.css"]
-  customSCSS = ["scss/custom.scss"]
-  customJS = ["js/custom.js"]
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
 
 [taxonomies]
   category = "categories"
