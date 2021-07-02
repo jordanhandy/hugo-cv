@@ -23,11 +23,11 @@ disqusShortname = "yourdiscussshortname"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "Enter a text here."
+  # footercontent = "Jordan Handy"
   hideFooter = false
   hideCredits = true
   hideCopyright = false
-  since = 2021
+  since = { year }
 
   enableTwemoji = true
 
