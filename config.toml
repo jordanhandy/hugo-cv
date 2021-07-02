@@ -1,4 +1,4 @@
-baseurl = "https://www.jordanhandy.com"
+baseurl = "https://obsidianshark.gitlab.io"
 title = "Jordan Handy"
 theme = "hugo-coder"
 languagecode = "en"
