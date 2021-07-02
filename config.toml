@@ -4,7 +4,7 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
+paginate = 20  # Pagination for blog posts
 
 pygmentsstyle = "bw"
 pygmentscodefences = true
