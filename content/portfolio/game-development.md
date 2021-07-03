@@ -9,4 +9,3 @@ draft = false
 
 This page is dedicated to showcases my projects in Game Development
 
-[Flutter/Dart]

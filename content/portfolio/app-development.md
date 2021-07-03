@@ -8,6 +8,6 @@ draft = false
 +++
 
 These sub-pages are dedicated to showing my work in app development. Please use the menu options in the top-right area of the screen to drill down into what you're looking for.
-
-
-[Flutter/Dart]
+## Flutter and Dart
+* [BMI Calculator - Android](https://play.google.com/store/apps/details?id=com.jordanhandy.bmicalculator)
+* [Xylophone App - Android](https://play.google.com/store/apps/details?id=com.jordanhandy.xylophone)

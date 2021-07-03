@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
   info = "Full Stack Developer and Technical Consultant"
   description = "Jordan's Website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  #avatarurl = "images/avatar.jpg"
   gravatar = "handy.jordan@outlook.com"
 
   favicon_32 = "/img/favicon-32x32.png"
