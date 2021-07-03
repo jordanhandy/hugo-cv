@@ -17,5 +17,5 @@ The components of my portfolio are kept at various locations on the web. Choose 
 
 [Web Development Projects](portfolio/web-development)
 [App Development Projects]
-[System Development Projets]
+[System Development Projets](portfolio/system-development)
 [Game Development Projects]
