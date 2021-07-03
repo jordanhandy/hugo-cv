@@ -11,7 +11,7 @@ The components of my portfolio are kept at various locations on the web. Choose 
 
 ## Documents
 
-[Download a copy of my resume]()
+[Download a copy of my resume](https://drive.google.com/file/d/1HNEAk8yCt6_klWXjX7lqnfvm7d68ur2A/view?usp=sharing)
 
 ## Projects
 

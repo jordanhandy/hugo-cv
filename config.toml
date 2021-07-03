@@ -12,7 +12,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "hifx93"
 
 [params]
   author = "Jordan Handy"
@@ -51,17 +51,27 @@ disqusShortname = "yourdiscussshortname"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
+  url = "https://github.com/jordanhandy/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
   weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://gitlab.com/obsidianshark/"
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
+  name = "NPM"
+  icon = "fa fa-nodejs fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://www.npmjs.com/~jordanhandy"
+[[params.social]]
+  name = "KoFi"
+  icon = "fa fa-coffee fa-2x"
+  weight = 3
+  url = "https://www.npmjs.com/~jordanhandy"
+[[params.social]]
+  name = "Newsletter"
+  icon = "fa fa-newspaper-o fa-2x"
+  weight = 3
+  url = "https://newsletter-signup93.herokuapp.com/"
 
 # Menu links
 [[menu.main]]
