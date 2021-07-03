@@ -63,7 +63,7 @@ collections:
       # We default it to "true" so we don't accidentally post rough drafts.
     - {label: "Draft (not published)", name: "draft", widget: "boolean", default: true}
 
-    - {label: "Author", name: "authors", widget: "list", default: "Joe Author"}
+    - {label: "Authors", name: "authors", widget: "list", default: ["Joe Author"]}
 
       # Notice this "url" field uses the "hidden" widget, meaning that
       #  it won't appear in the UI, but it will still update our front matter.
