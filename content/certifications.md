@@ -7,7 +7,7 @@ author = "Jordan Handy"
 draft = false
 +++
 
-Please contact me at [handy.jordan@gmail.com](mailto:handy.jordan@gmail.com)
+A listing of my certifications from various institutions and governing bodies
 
 |Certifications|Certifications|Certifications|
 |--------------|--------------|--------------|
