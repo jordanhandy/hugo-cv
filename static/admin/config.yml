@@ -19,7 +19,7 @@ display_url: "https://www.jordanhandy.com"
 #  See https://www.netlifycms.org/docs/add-to-your-site/#collections
 collections:
     # Unique identifier for this collection
-  - name: posts
+  - name: post
 
     # What this collection is called in the UI (i.e. friendly name)
     label: Posts
