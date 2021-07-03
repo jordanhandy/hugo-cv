@@ -14,3 +14,9 @@ Please contact me at [handy.jordan@gmail.com](mailto:handy.jordan@gmail.com)
 {{< figure src="/img/rsz_cangov.jpg" caption="Certified Recreational RPAS Pilot" alt="Government of Canada Logo" >}}
 {{< figure src="/img/salesforce.jpg" caption="Certified Salesforce Administrator" alt="Salesforce Logo" >}}
 
+<figure>
+<img src="/img/axelos.png" style="float: left;"/>
+<figcaption>
+<h4>This is a test caption</h4>
+</figcaption>
+</figure>
