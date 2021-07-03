@@ -11,6 +11,9 @@ media_folder: "static/img/uploads"
 # Where our media is found in the live site
 public_folder: "/img/uploads"
 
+# Show website URL for easy navigation while within CMS admin
+display_url: "https://www.jordanhandy.com"
+
 # The various content types for your site.
 #  Common options are "posts, blog, news"
 #  See https://www.netlifycms.org/docs/add-to-your-site/#collections
