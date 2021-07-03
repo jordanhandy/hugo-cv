@@ -12,10 +12,4 @@ Please contact me at [handy.jordan@gmail.com](mailto:handy.jordan@gmail.com)
 |Certifications|Certifications|Certifications|
 |--------------|--------------|--------------|
 |{{< figure src="/img/axelos.png" caption="ITIL v4 Certified" alt="Axelos Logo" >}}|{{< figure src="/img/aws.png" caption="Certified AWS Cloud Solutions Architect - Associate" alt="AWS Logo" >}}|{{< figure src="/img/rsz_ontario2x-print.png" caption="Licensed Private Investigator" alt="Governmnet of Ontario Logo" >}}|
-|{{< figure src="/img/rsz_cangov.jpg" caption="Certified Recreational RPAS Pilot" alt="Government of Canada Logo" >}}|{{< figure src="/img/salesforce.jpg" caption="Certified Salesforce Administrator" alt="Salesforce Logo" >}}
-<figure>
-<img src="/img/axelos.png" style="float: left;"/>
-<figcaption>
-<h4>This is a test caption</h4>
-</figcaption>
-</figure>
+|{{< figure src="/img/rsz_cangov.jpg" caption="Certified Recreational RPAS Pilot" alt="Government of Canada Logo" >}}|{{< figure src="/img/salesforce.jpg" caption="Certified Salesforce Administrator" alt="Salesforce Logo" >}}|
