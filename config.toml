@@ -89,4 +89,4 @@ disqusShortname = "hifx93"
 [[menu.main]]
   name = "Portfolio"
   weight = 4
-  url = "portfolio/"
+  url = "portfolio/portfolio"
