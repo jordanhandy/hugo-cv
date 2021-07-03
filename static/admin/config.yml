@@ -22,7 +22,7 @@ collections:
   - name: post
 
     # What this collection is called in the UI (i.e. friendly name)
-    label: Posts
+    label: Post
 
     # Where the content lives in our Git repository
     folder: "content/posts"
@@ -74,10 +74,14 @@ collections:
       name: "categories"
       required: true
       widget: "list"
+      field: {label: "Category", name: "category_name", widget: "string"}
+
 
     - label: "Tags"
       name: "Tags"
       widget: "list"
+      field: {label: "Tag", name: "tag_name", widget: "string"}
+
 
     # body: Super important if you want to actually edit the content of your posts. :)
     - label: "Article"
