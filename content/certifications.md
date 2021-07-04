@@ -8,6 +8,7 @@ draft = false
 +++
 
 A listing of my certifications from various institutions and governing bodies
+![Alt](/img/aws.png#center)
 
 |Certifications|Certifications|Certifications|
 |--------------|--------------|--------------|
