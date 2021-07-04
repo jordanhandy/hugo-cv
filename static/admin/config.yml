@@ -41,7 +41,7 @@ collections:
        # Title of your posts
     - {label: "Title", name: "title", widget: "string" }
 
-    - {label: "Last updated", name: "date", widget: "date" }
+    - {label: "Last updated", name: "date", widget: "hidden" }
 
     # (Alternative YAML syntax)
       # 'label' is what we call this field in the UI.
