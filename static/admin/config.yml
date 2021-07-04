@@ -62,6 +62,8 @@ collections:
       #  and attempts to make it's purpose clearer to content creators.
       # We default it to "true" so we don't accidentally post rough drafts.
     - {label: "Draft (not published)", name: "draft", widget: "boolean", default: true}
+      # For disabling / enabling comments
+    - {label: "Disable comments", name: "disableComments", widget: "boolean", default: false}
 
     - {label: "Authors", name: "authors", widget: "list", default: ["Joe Author"]}
 

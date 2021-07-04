@@ -10,4 +10,5 @@ draft = false
 These sub-pages are dedicated to showing my work in the area of "systems" development. Please use the menu options in the top-right area of the screen to drill down into what you're looking for.
 
 ## Python
+
 [Python Website Built with Flask](https://pip.jordanhandy.com)

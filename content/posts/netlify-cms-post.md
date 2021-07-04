@@ -4,6 +4,7 @@ date: 2021-07-03T20:38:34.445Z
 publishdate: 2021-07-03T20:38:34.480Z
 description: This is an article that was published with Netlify CMS
 draft: false
+disableComments: false
 authors:
   - Jordan Handy
 url: "{{slug}}"
