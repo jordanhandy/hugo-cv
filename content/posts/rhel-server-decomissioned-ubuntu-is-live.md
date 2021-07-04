@@ -6,7 +6,7 @@ description = "After some incompatibilities with my Docker containers originally
 draft = false
 disableComments = true
 authors = ["Jordan Handy"]
-url: "{{slug}}"
+url = "{{slug}}"
 categories = ["General", "Infrastructure"]
 tags = ["Infrastructure"]
 +++
