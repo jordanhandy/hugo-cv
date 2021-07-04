@@ -2,7 +2,7 @@ thead, th{
   display: none;
 }
 
-img[src$='#center']
+img[src$='#center'] figcaption
 {
     display: block;
     margin: 2rem auto; /* you can replace the vertical '0.7rem' by
@@ -11,14 +11,14 @@ img[src$='#center']
     /* whatever else styles you fancy here */
 }
 
-img[src$='#floatleft']
+img[src$='#floatleft'] figcaption
 {
     float:left;
     margin: 2rem;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
 
-img[src$='#floatright']
+img[src$='#floatright'] figcaption
 {
     float:right;
     margin: 2rem;      /* this margin is totally up to you */
