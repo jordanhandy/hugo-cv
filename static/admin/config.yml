@@ -33,6 +33,7 @@ collections:
     # The relative URL for the post.
     #  Default is {{slug}}, a URL-safe version of the title
     slug: "{{slug}}"
+    format: toml-frontmatter
 
     # The fields shown in the content editor.
     #  They correspond to fields in the front matter (except for 'body')
