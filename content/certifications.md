@@ -9,13 +9,7 @@ draft = false
 
 A listing of my certifications from various institutions and governing bodies
 
-{{< figure src="/img/axelos.png" class="certimg" caption="ITIL v4 Certified" alt="Axelos Logo" >}}
-{{< figure src="/img/aws.png" class="certimg" caption="Certified AWS Cloud Solutions Architect - Associate" alt="AWS Logo" >}}
-{{< figure src="/img/rsz_ontario2x-print.png" class="certimg" caption="Licensed Private Investigator" alt="Governmnet of Ontario Logo" >}}
-{{< figure src="/img/rsz_cangov.jpg" class="certimg" caption="Certified Recreational RPAS Pilot" alt="Government of Canada Logo" >}}
-{{< figure src="/img/salesforce.jpg" class="certimg" caption="Certified Salesforce Administrator" alt="Salesforce Logo" >}}
-
-<!-- |Certifications|Certifications|Certifications|
+|Certifications|Certifications|Certifications|
 |--------------|--------------|--------------|
 |{{< figure src="/img/axelos.png#floatleft" caption="ITIL v4 Certified" alt="Axelos Logo" >}}|{{< figure src="/img/aws.png#center" caption="Certified AWS Cloud Solutions Architect - Associate" alt="AWS Logo" >}}|{{< figure src="/img/rsz_ontario2x-print.png#floatright" caption="Licensed Private Investigator" alt="Governmnet of Ontario Logo" >}}|
-|{{< figure src="/img/rsz_cangov.jpg" caption="Certified Recreational RPAS Pilot" alt="Government of Canada Logo" >}}|{{< figure src="/img/salesforce.jpg" caption="Certified Salesforce Administrator" alt="Salesforce Logo" >}}| -->
+|{{< figure src="/img/rsz_cangov.jpg" caption="Certified Recreational RPAS Pilot" alt="Government of Canada Logo" >}}|{{< figure src="/img/salesforce.jpg" caption="Certified Salesforce Administrator" alt="Salesforce Logo" >}}|
