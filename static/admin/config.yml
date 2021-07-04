@@ -70,7 +70,7 @@ collections:
 
       # Notice this "url" field uses the "hidden" widget, meaning that
       #  it won't appear in the UI, but it will still update our front matter.
-    - {label: "Link", name: "url", widget: "hidden", default: "{{slug}}"}
+    - {label: "Link", name: "slug", widget: "hidden", default: ""}
 
     # These "categories" and "tags" fields use the "list" widget
     - label: "Categories"
