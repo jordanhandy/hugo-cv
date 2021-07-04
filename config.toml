@@ -85,7 +85,7 @@ disqusShortname = "hifx93"
 [[menu.main]]
   name = "Certifications"
   weight = 3
-  url = "certifications1.html"
+  url = "/static/certifications1.html"
 [[menu.main]]
   name = "Portfolio"
   weight = 4
