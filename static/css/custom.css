@@ -2,25 +2,33 @@ thead, th{
   display: none;
 }
 
+table, tr, td{
+  border: none; /* Hide table border lines */
+}
+/* Unused Styles
 img[src$='#center'] figcaption
 {
     display: block;
     margin: 2rem auto; /* you can replace the vertical '0.7rem' by
                             whatever floats your boat, but keep the
                             horizontal 'auto' for this to work */
-    /* whatever else styles you fancy here */
+    /* whatever else styles you fancy here
 }
 
 img[src$='#floatleft'] figcaption
 {
     float:left;
     margin: 2rem;      /* this margin is totally up to you */
-    /* whatever else styles you fancy here */
+    /* whatever else styles you fancy here
 }
 
 img[src$='#floatright'] figcaption
 {
     float:right;
     margin: 2rem;      /* this margin is totally up to you */
-    /* whatever else styles you fancy here */
+    /* whatever else styles you fancy here
 }
+.certimg{
+  padding:1rem;
+}
+*/
