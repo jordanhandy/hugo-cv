@@ -1,20 +1,16 @@
----
-title: RHEL Server Decomissioned - Ubuntu is Live
-date: 2021-07-02T12:08:41.974Z
-publishdate: 2021-07-02T12:08:41.974Z
-description: After some incompatibilities with my Docker containers originally
-  running on a RHEL server, the server needed to be decommissioned for Ubuntu.
++++
+title = "RHEL Server Decomissioned - Ubuntu is Live"
+date = "2021-07-02T12:08:41.974Z"
+publishdate = "2021-07-02T12:08:41.974Z"
+description = "After some incompatibilities with my Docker containers originally
+  running on a RHEL server, the server needed to be decommissioned for Ubuntu."
 draft = false
 disableComments = true
-authors:
-  - Jordan Handy
+authors = ["Jordan Handy"]
 url: "{{slug}}"
-categories:
-  - General
-  - Infrastructure
-Tags:
-  - Infrastructure
----
+categories = ["General", "Infrastructure"]
+tags = ["Infrastructure"]
++++
 After some incompatibilities with my Docker containers originally running on a **RHEL** server, the server needed to be decommissioned for **Ubuntu**.
 
 Here was the game plan:
