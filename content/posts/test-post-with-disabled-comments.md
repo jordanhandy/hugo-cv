@@ -6,7 +6,7 @@ description: Comments disabled on this post
 draft: false
 disableComments: true
 authors:
-  - Joe Author
+  - Jordan Handy
 url: "{{slug}}"
 ---
 Comments should be disabled on this post
