@@ -6,7 +6,7 @@ description = "This is an article that was published with Netlify CMS"
 draft = false
 disableComments = false
 authors = ["Jordan Handy"]
-url = "{{slug}}"
+slug = ""
 categories = ["General", "Admin"]
 tags = ["General", "Admin"]
 +++

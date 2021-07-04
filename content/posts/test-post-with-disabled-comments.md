@@ -6,6 +6,6 @@ description = "Comments disabled on this post"
 draft = false
 disableComments = true
 authors = ["Jordan Handy"]
-url = "{{slug}}"
+slug = ""
 +++
 Comments should be disabled on this post
