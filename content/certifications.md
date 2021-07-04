@@ -8,7 +8,9 @@ draft = false
 +++
 
 A listing of my certifications from various institutions and governing bodies
+![Alt](/img/axelos.png#floatleft)
 ![Alt](/img/aws.png#center)
+![Alt](/img/rsz_ontario2x-print.png#floatright)
 
 |Certifications|Certifications|Certifications|
 |--------------|--------------|--------------|
