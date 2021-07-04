@@ -24,3 +24,6 @@ img[src$='#floatright'] figcaption
     margin: 2rem;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
+.certimg{
+  padding:1rem;
+}
