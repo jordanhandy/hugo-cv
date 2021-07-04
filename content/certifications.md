@@ -9,6 +9,11 @@ draft = false
 
 A listing of my certifications from various institutions and governing bodies
 
+<p float="left">
+<img src="/img/axelos.png">
+<img src="/img/aws.png">
+</p>
+
 |Certifications|Certifications|Certifications|
 |--------------|--------------|--------------|
 |{{< figure src="/img/axelos.png" caption="ITIL v4 Certified" alt="Axelos Logo" >}}|{{< figure src="/img/aws.png" caption="Certified AWS Cloud Solutions Architect - Associate" alt="AWS Logo" >}}|{{< figure src="/img/rsz_ontario2x-print.png" caption="Licensed Private Investigator" alt="Governmnet of Ontario Logo" >}}|
