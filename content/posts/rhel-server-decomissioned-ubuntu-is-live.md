@@ -7,8 +7,8 @@ draft = false
 disableComments = true
 authors = ["Jordan Handy"]
 slug = ""
-categories = ["General", "Infrastructure"]
 tags = ["Infrastructure"]
+categories = ["General", "Infrastructure"]
 +++
 After some incompatibilities with my Docker containers originally running on a **RHEL** server, the server needed to be decommissioned for **Ubuntu**.
 
@@ -23,4 +23,4 @@ Here was the game plan:
 7. Wait for DNS propagation
 8. Decommission the older server
 
-This post is tonfirm that the migration was successful.
+This post is to confirm that the migration was successful.
