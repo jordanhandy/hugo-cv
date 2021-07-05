@@ -2,7 +2,7 @@ thead, th{
   display: none;
 }
 
-table{
+table, tr, td{
   border-collapse: collapse; /* Hide table border lines */
 }
 /* Unused Styles
