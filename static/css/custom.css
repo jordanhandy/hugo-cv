@@ -3,7 +3,7 @@ thead, th{
 }
 
 table, tr, td{
-  border-collapse: collapse; /* Hide table border lines */
+  border: none; /* Hide table border lines */
 }
 /* Unused Styles
 img[src$='#center'] figcaption
