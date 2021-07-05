@@ -1,7 +1,7 @@
 baseurl = "https://obsidianshark.gitlab.io/hugo-cv-site/"
 relativeURLs = true
 canonifyURLs = true
-title = "Jordan Handy"
+title = "Jordan Handy | Full Stack Developer & Technical Consultant"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -17,7 +17,7 @@ disqusShortname = "hifx93"
 [params]
   author = "Jordan Handy"
   info = "Full Stack Developer and Technical Consultant"
-  description = "Jordan's Website"
+  description = "Jordan Handy | Full Stack Developer & Technical Consultant"
   keywords = "blog,developer,personal"
   #avatarurl = "images/avatar.jpg"
   gravatar = "handy.jordan@outlook.com"
