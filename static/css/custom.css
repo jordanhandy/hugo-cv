@@ -1,10 +1,10 @@
 thead, th{
   display: none;
 }
-img{
+/* img{
   width: 75%;
   height: auto;
-}
+} */
 
 /* table, tr, td{
   border: none; /* Hide table border lines /
