@@ -48,29 +48,34 @@ disqusShortname = "hifx93"
 
 # Social links
 [[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-Linkedin fa-2x"
+  weight = 1
+  url = "https://linkedin.com/in/jordan-handy"
+[[params.social]]
   name = "Github"
   icon = "fa fa-github fa-2x"
-  weight = 1
+  weight = 2
   url = "https://github.com/jordanhandy/"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
-  weight = 2
+  weight = 3
   url = "https://gitlab.com/obsidianshark/"
 [[params.social]]
   name = "NPM"
   icon = "fa fa-nodejs"
-  weight = 3
+  weight = 4
   url = "https://www.npmjs.com/~jordanhandy"
 [[params.social]]
   name = "KoFi"
   icon = "fa fa-coffee"
-  weight = 4
+  weight = 5
   url = "https://www.npmjs.com/~jordanhandy"
 [[params.social]]
   name = "Newsletter"
   icon = "fa fa-newspaper-o fa-2x"
-  weight = 5
+  weight = 6
   url = "https://newsletter-signup93.herokuapp.com/"
 
 # Menu links
