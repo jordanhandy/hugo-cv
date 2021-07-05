@@ -1,10 +1,14 @@
 thead, th{
   display: none;
 }
-
-table, tr, td{
-  border: none; /* Hide table border lines */
+img{
+  width: 100%;
+  height: auto;
 }
+
+/* table, tr, td{
+  border: none; /* Hide table border lines /
+} */
 /* Unused Styles
 img[src$='#center'] figcaption
 {
