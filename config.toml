@@ -49,7 +49,7 @@ disqusShortname = "hifx93"
 # Social links
 [[params.social]]
   name = "Linkedin"
-  icon = "fa fa-Linkedin fa-2x"
+  icon = "fa fa-linkedin fa-2x"
   weight = 1
   url = "https://linkedin.com/in/jordan-handy"
 [[params.social]]
