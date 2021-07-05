@@ -1,6 +1,13 @@
 thead, th{
   display: none;
 }
+table{
+  table-layout: fixed;
+  width: 100%;
+}
+td{
+  width: 33.3%;
+}
 /* img{
   width: 75%;
   height: auto;
