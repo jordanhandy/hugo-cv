@@ -99,3 +99,7 @@ disqusShortname = "hifx93"
   name = "Contact"
   weight = 5
   url = "contact/"
+[[menu.main]]
+  name = "Interactive Resume"
+  weight = 6
+  url = "contact/"
