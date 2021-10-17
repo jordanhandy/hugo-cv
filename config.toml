@@ -102,4 +102,4 @@ disqusShortname = "hifx93"
 [[menu.main]]
   name = "Interactive Resume"
   weight = 6
-  url = "contact/"
+  url = "rbot/"
