@@ -10,4 +10,4 @@ categories = ["Resume"]
 +++
 My Landbot has been created for an interactive resume experience.
 
-Check it out at: **[Interactive Resume](jordanhandy.com/intresume)**
+Check it out at: **[Interactive Resume](https://jordanhandy.com/intresume)**
