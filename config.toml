@@ -96,10 +96,14 @@ disqusShortname = "hifx93"
   weight = 4
   url = "portfolio/portfolio"
 [[menu.main]]
-  name = "Contact"
+  name = "Service"
   weight = 5
+  url = "portfolio/portfolio"
+[[menu.main]]
+  name = "Contact"
+  weight = 6
   url = "contact/"
 [[menu.main]]
   name = "Interactive Resume"
-  weight = 6
+  weight = 7
   url = "intresume/"
