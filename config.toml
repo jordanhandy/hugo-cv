@@ -98,7 +98,7 @@ disqusShortname = "hifx93"
 [[menu.main]]
   name = "Service"
   weight = 5
-  url = "portfolio/portfolio"
+  url = "service/"
 [[menu.main]]
   name = "Contact"
   weight = 6
