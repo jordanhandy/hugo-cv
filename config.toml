@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://obsidianshark.gitlab.io/hugo-cv-site/"
 title = "Jordan Handy"
 theme = "hugo-coder"
 languageCode = "en"
@@ -170,14 +170,26 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Certifications"
 weight = 3
-url = "projects/"
+url = "certifications/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Portfolio"
+weight = 4
+url = "portfolio/portfolio"
+[[languages.en.menu.main]]
+name = "Service"
 weight = 5
+url = "service/"
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 6
 url = "contact/"
+[[languages.en.menu.main]]
+name = "Interactive Resume"
+weight = 7
+url = "intresume/"
 
 #[languages.pt-br]
 #languageName = ":brazil:"
