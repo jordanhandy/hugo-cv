@@ -1,6 +1,6 @@
 baseurl = "https://obsidianshark.gitlab.io/hugo-cv-site/"
-relativeURLs = true
-canonifyURLs = true
+#relativeURLs = true
+#canonifyURLs = true
 title = "Jordan Handy"
 theme = "hugo-coder"
 languagecode = "en"
@@ -9,32 +9,34 @@ defaultcontentlanguage = "en"
 paginate = 20  # Pagination for blog posts
 
 pygmentsstyle = "bw"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji=true
 disqusShortname = "hifx93"
 
 [params]
   author = "Jordan Handy"
-  info = "Full Stack Developer and Cloud Solutions Architect"
+  info = ["Full Stack Developer","Cloud Solutions Architect"]
   description = "Jordan Handy | Full Stack Developer & Technical Consultant"
   keywords = "blog,developer,personal,fullstack,full,stack,technical,consultant,specialist"
   #avatarurl = "images/avatar.jpg"
   gravatar = "handy.jordan@outlook.com"
+  dateFormat = "January 2, 2006"
+  #favicon_32 = "/img/favicon-32x32.png"
+  #favicon_16 = "/img/favicon-16x16.png"
 
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
 
   # footercontent = "Jordan Handy"
   hideFooter = false
   hideCredits = true
   hideCopyright = false
-  since = "2008"
-
+  since = 2008
+  # commit = "https://gitlab.com/obsidianshark/hugo-cv/tree/"
+  rtl=false
+  colorScheme="dark"
+  hideColorSchemeToggle = false
   enableTwemoji = true
-
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
+  maxSeeAlsoItems=5
 
   customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
@@ -78,32 +80,35 @@ disqusShortname = "hifx93"
   weight = 6
   url = "https://newsletter-signup93.herokuapp.com/"
 
+[languages.en]
+languageName = ":us:"
+
 # Menu links
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "Blog"
   weight = 1
   url  = "posts/"
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "About"
   weight = 2
   url = "about/"
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "Certifications"
   weight = 3
   url = "certifications/"
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "Portfolio"
   weight = 4
   url = "portfolio/portfolio"
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "Service"
   weight = 5
   url = "service/"
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "Contact"
   weight = 6
   url = "contact/"
-[[menu.main]]
+[[languages.en.menu.main]]
   name = "Interactive Resume"
   weight = 7
   url = "intresume/"
