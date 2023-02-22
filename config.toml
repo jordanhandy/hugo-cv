@@ -27,9 +27,9 @@ disqusShortname = "hifx93"
 
 
   # footercontent = "Jordan Handy"
-  hideFooter = false
-  hideCredits = true
-  hideCopyright = false
+  #hideFooter = false
+  #hideCredits = true
+  #hideCopyright = false
   since = 2008
   # commit = "https://gitlab.com/obsidianshark/hugo-cv/tree/"
   rtl=false
